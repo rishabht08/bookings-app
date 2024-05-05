@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/rishabht08/bookings/pkg/config"
-	"github.com/rishabht08/bookings/pkg/models"
-	"github.com/rishabht08/bookings/pkg/render"
+	"github.com/rishabht08/bookings-app/pkg/config"
+	"github.com/rishabht08/bookings-app/pkg/models"
+	"github.com/rishabht08/bookings-app/pkg/render"
 )
 
 // Repo the repository used by the handlers

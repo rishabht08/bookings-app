@@ -1,4 +1,4 @@
-module github.com/rishabht08/bookings
+module github.com/rishabht08/bookings-app
 
 go 1.22.2
 
