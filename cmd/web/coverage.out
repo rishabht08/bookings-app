@@ -1,0 +1,11 @@
+mode: set
+github.com/rishabht08/bookings-app/cmd/web/main.go:23.13,27.16 2 0
+github.com/rishabht08/bookings-app/cmd/web/main.go:27.16,29.3 1 0
+github.com/rishabht08/bookings-app/cmd/web/main.go:31.2,39.16 4 0
+github.com/rishabht08/bookings-app/cmd/web/main.go:39.16,41.3 1 0
+github.com/rishabht08/bookings-app/cmd/web/main.go:44.18,60.16 10 1
+github.com/rishabht08/bookings-app/cmd/web/main.go:60.16,63.3 2 0
+github.com/rishabht08/bookings-app/cmd/web/main.go:65.2,73.12 6 1
+github.com/rishabht08/bookings-app/cmd/web/middleware.go:9.45,19.2 3 1
+github.com/rishabht08/bookings-app/cmd/web/middleware.go:22.50,24.2 1 1
+github.com/rishabht08/bookings-app/cmd/web/routes.go:12.49,36.2 18 1
